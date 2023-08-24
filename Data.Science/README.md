@@ -2,10 +2,6 @@
 
 ## Video Link: https://youtu.be/NvxzXY2Y70w
 
-Hello future employer,
-
-Welcome to a copy of one of my final group projects during my senior year at UCSD for COGS 108: Data Science in Practice.
-
 ## Project Overview
 
 For our final project, our group embarked on a mission to understand the key factors contributing to a country's happiness score. Through rigorous data analysis and collaboration, we aimed to uncover insights that shed light on what makes a nation's citizens happier.
