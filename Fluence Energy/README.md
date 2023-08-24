@@ -1,8 +1,10 @@
 # Group Project: Sustainable Investment Group Stock Pitch Competition '22 - Fluence Energy
 
--**Role: Sustainability Analyst**
--**Recommendation: Buy**
--**Placement: Second Place**
+**Role: Sustainability Analyst**
+
+**Recommendation: Buy**
+
+**Placement: Second Place**
 
 ## Project Overview
 Our team undertook an in-depth analysis of Fluence Energy, an industry leader in renewable energy solutions, for a stock pitch competition. After evaluating various metrics such as financial performance, sustainability features, and industry trends, we presented a strong “Buy” recommendation for the company. Notably, we achieved a second-place finish in the competition, highlighting the strength of our research and presentation.
